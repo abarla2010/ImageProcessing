@@ -1,2 +1,2 @@
-# ImageProcessing1
-Image Processing done in Matlab
+# ImageProcessing
+Image Processing done in Matlab and C language. This folder contains the source code only and no applications.
